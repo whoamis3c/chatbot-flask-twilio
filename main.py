@@ -147,13 +147,13 @@ Obrigado. Estou transferindo agora mesmo! 😜''')
 Agradecemos o seu contato.
 Não esqueça de conferir nossas Midias Sociais 🤞
 
-Site: https://www.kairongestorimobiliario.com.br/
+Site: Em desenvolvimento . . .
 
-Instagram: https://www.instagram.com/kairon.gestor/
+Instagram: Em desenvolvimento . . .
 
 Facebook: Em desenvolvimento . . .
 
-Linkedin: https://www.linkedin.com/in/rennan-f-f-santos-561369197/''')
+Linkedin: Em desenvolvimento . . .''')
 
     return str(resp)
 
