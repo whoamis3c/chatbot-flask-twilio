@@ -53,7 +53,7 @@ Lotes - 800m² à 1.300m²
 ▪️ Lazer Clube   
 ▪️ Pronto para Construir 
  
-Material Digital (google.com)
+Material Digital (Em desenvolvimento . . . link google.com como teste)
 ______________________________
 
 🏡Vintage Granja Viana🏡  
@@ -66,7 +66,7 @@ Lotes - 500m² à 1.085m²
 ▪️ Lazer Clube  
 ▪️ Pronto para construir   
   
-Material Digital (google.com)
+Material Digital (Em desenvolvimento . . . link google.com como teste)
 ______________________________
 
 🏡Bosque do Sol - Cotia🏡
@@ -79,7 +79,7 @@ Lotes - 150m² à 300m²
 ▪️ Infraestrutura Completa    
 ▪️ Lazer Clube
 
-Material Digital (google.com)
+Material Digital (Em desenvolvimento . . . link google.com como teste)
 ______________________________
 
 🏡ComViva - Cotia🏡
@@ -94,7 +94,7 @@ Aberto e Fechado Segurança 24hrs
 ▪️ Lazer Entregue Equipado
 ▪️ Documentação e Projeto Arquitetônico Gratuitos 
 
-Material Digital (google.com)
+Material Digital (Em desenvolvimento . . . link google.com como teste)
 ______________________________
 
 Digite "menu" para voltar ao menu principal
